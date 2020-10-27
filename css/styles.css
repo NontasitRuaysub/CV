@@ -1,0 +1,142 @@
+h1, h2 {
+  font-family: 'Frank Ruhl Libre', serif;
+  font-weight: bold;
+}
+
+h6 {
+  font-size: 25px;
+  text-align: center;
+  margin: 50px auto;
+
+}
+
+/* Navbar-section */
+
+.navbar {
+  padding: 0;
+}
+.navbar-brand {
+  color: #EEEEEE;
+  font-size: 30px;
+  font-weight: bold;
+}
+.nav-link {
+  color: #EEEEEE;
+  font-size: 20px;
+  margin: 0 20px;
+}
+
+/* custom-toggler */
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.9)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.custom-toggler.navbar-toggler {
+  border-color: rgb(255,255,255);
+}
+
+/* Color&white-Section */
+.color-section {
+  background-color: #222831;
+  color: #EEEEEE;
+  padding: 7% 10%
+}
+
+.white-section {
+  background-color: #EEEEEE;
+  padding: 7% 10%
+}
+
+/* Container-for-all-Section */
+.container-fluid {
+  padding: 0;
+}
+
+/* Title-Section */
+#title {
+  font-family: 'Cormorant', serif;
+}
+.title-welcome-to-web {
+  padding: 15% 0;
+}
+.title-name {
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 80px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.title-description {
+  font-size: 25px;
+  font-weight: bold;
+}
+/* About-Me-Section */
+.about-me-content {
+  font-family: 'Frank Ruhl Libre', serif;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.about-me-profile {
+  text-align: center;
+  padding-top: 20px;
+  margin-bottom: 50px;
+}
+.profile-picture {
+  border-radius: 50%;
+  height: 250px;
+  width: 200px;
+}
+.about-me-description {
+  font-size: 25px;
+
+}
+
+/* skills-Section */
+#skills {
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+.skills-header {
+  margin-bottom: 100px;
+}
+.skills-box {
+  margin-top: 30px;
+  text-align: center;
+}
+.skills-icon {
+  height: 100px;
+  width: 100px;
+}
+.icon-name {
+  font-family: 'Frank Ruhl Libre', serif;
+  margin-top: 15px;
+}
+/* projects-Section */
+
+/* contact-me-Section */
+.contact-box {
+  margin-top: 100px;
+  text-align: center;
+}
+.contact-icon {
+  height: 50px;
+  width: 50px;
+}
+.contact-details {
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 25px;
+}
+.facebook-contact-link {
+  color: #EEEEEE;
+  text-decoration: none;
+}
+.facebook-contact-link:hover {
+  color: #1877f2;
+  text-decoration: none;
+}
+/* To Top Button */
+.to-top-button {
+  margin-top: 5%;
+  margin-left: 95%;
+  color: #A0A7AD;
+  border-color: #A0A7AD;
+}
